@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/davtask3/static/css/main.fd510cc7.css",
+    "main.js": "/github.io/davtask3/static/js/main.02d26cf4.js",
+    "static/js/453.d05000a6.chunk.js": "/github.io/davtask3/static/js/453.d05000a6.chunk.js",
+    "index.html": "/github.io/davtask3/index.html",
+    "main.fd510cc7.css.map": "/github.io/davtask3/static/css/main.fd510cc7.css.map",
+    "main.02d26cf4.js.map": "/github.io/davtask3/static/js/main.02d26cf4.js.map",
+    "453.d05000a6.chunk.js.map": "/github.io/davtask3/static/js/453.d05000a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd510cc7.css",
+    "static/js/main.02d26cf4.js"
+  ]
+}
